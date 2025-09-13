@@ -1,1 +1,5 @@
-track assemblytype bed 3shortLabel MonContiglongLabel RŽgion 50 kb souche Plawx1visibility dense
+track assembly
+type bed 3
+shortLabel MonContig
+longLabel Region 50 kb souche Plawx1
+visibility dense
