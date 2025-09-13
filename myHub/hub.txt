@@ -1,5 +1,5 @@
 hub myHub
 shortLabel MonGenome
-longLabel Mon génome perso (souche Plawx1)
-genomesFile genomes.txt
-email autaa.j@gmail.com
+longLabel Mon g≈Ωnome perso (souche Plawx1)
+genomesFile genome.txt
+email autaa.j@gmail.com
