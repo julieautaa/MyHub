@@ -3,4 +3,3 @@ organism Plawx1_souche
 defaultPos ago1veryextgeneregion_50kb_Plawx1:1-60898
 twoBitPath genome/genome.2bit
 chromSizes genome/genome.chrom.sizes
-trackDb genome/trackDb.txt
