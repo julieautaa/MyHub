@@ -1,0 +1,1 @@
+genome genometwoBitPath genome/genome.2bitchromSizes genome/genome.chrom.sizestrackDb genome/trackDb.txt
