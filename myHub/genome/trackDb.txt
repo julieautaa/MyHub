@@ -1,5 +1,5 @@
-track assembly
+track testTrack
 type bed 3
-shortLabel MonContig
-longLabel Region 50 kb souche Plawx1
+shortLabel TestTrack
+longLabel Track de test
 visibility dense
