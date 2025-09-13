@@ -3,3 +3,4 @@ type bed 3
 shortLabel TestTrack
 longLabel Track de test
 visibility dense
+bigDataUrl genome/testTrack.bed
