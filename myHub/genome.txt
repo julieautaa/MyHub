@@ -1,1 +1,5 @@
-genome genometwoBitPath genome/genome.2bitchromSizes genome/genome.chrom.sizestrackDb genome/trackDb.txt
+genome genome
+organism Plawx1_souche
+twoBitPath genome/genome.2bit
+chromSizes genome/genome.chrom.sizes
+trackDb genome/trackDb.txt
